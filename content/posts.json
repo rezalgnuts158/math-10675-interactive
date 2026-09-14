@@ -1,5 +1,41 @@
 [
   {
+    "slug": "constant-rates-and-proportionality",
+    "title": "Constant rates & proportionality",
+    "date": "2026-09-13",
+    "module": "Module 2",
+    "investigations": "Investigations 3 & 4",
+    "status": "Under construction",
+    "description": "A working draft on constant rates of change, linear functions, and proportional relationships. Explore the bike ride, pool, remote-control car, mixtures, cylinders, and candles.",
+    "lesson": "constant-rates-and-proportionality.html",
+    "topics": [
+      "Constant rates",
+      "Linear functions",
+      "Proportionality",
+      "Ratios",
+      "Word problems"
+    ],
+    "sections": [
+      {
+        "title": "Identify quantities and define variables",
+        "text": "Classify quantities in the bike ride, then define variables for the bike and pool scenarios."
+      },
+      {
+        "title": "Connect changes, rates, and initial values",
+        "text": "Explore reciprocal rates and use Δy = mΔx to distinguish a change from a final value. Work through the pool observations and randomized self-checks."
+      },
+      {
+        "title": "Explore constant rates on graphs",
+        "text": "Move initial and final points on five linear models, reverse intervals, and examine why a zero-length interval gives an undefined ratio."
+      },
+      {
+        "title": "Distinguish proportional changes from proportional values",
+        "text": "Compare two starting depths, scale a mixture, compare cylinder readings, and model remaining candle length versus length burned."
+      }
+    ],
+    "sourceNote": "Under construction. Based on M2I3: Constant Rate of Change and Linear Functions and M2I4: Constant Rate of Change & Proportionality, Pathways Precalculus, ©2026 Rational Reasoning LLC. Scenario sources and adaptations are identified in the lesson. The Bob graph follows its labeled coordinates because the printed point placement is inconsistent."
+  },
+  {
     "slug": "quantities-and-change",
     "title": "Quantities & change",
     "date": "2026-09-13",
@@ -7,12 +43,30 @@
     "investigations": "Investigations 1 & 2",
     "description": "Identify measurable quantities, define variables, and connect a quantity’s value to its signed change. Explore graphs and reason through the tortoise-and-hare race and a walk to the car.",
     "lesson": "quantities-and-change.html",
-    "topics": ["Quantities", "Variables", "Delta notation", "Graphs", "Word problems"],
+    "topics": [
+      "Quantities",
+      "Variables",
+      "Delta notation",
+      "Graphs",
+      "Word problems"
+    ],
     "sections": [
-      {"title": "Identify and define", "text": "Classify ten candidates, explain which criteria fail, and write variable definitions for a marathon and a ball above a rooftop."},
-      {"title": "Separate a value from its change", "text": "Explore temperature readings, use ΔT = Tfinal − Tinitial, and check your understanding with new practice values."},
-      {"title": "Read change on a graph", "text": "Move two points on walking, square-area, and reservoir graphs. Compare initial values, final values, and signed changes."},
-      {"title": "Use the quantities in a story", "text": "Work through the race and the walk to the car. Distinguish position, distance traveled, distance remaining, and signed lead."}
+      {
+        "title": "Identify and define",
+        "text": "Classify ten candidates, explain which criteria fail, and write variable definitions for a marathon and a ball above a rooftop."
+      },
+      {
+        "title": "Separate a value from its change",
+        "text": "Explore temperature readings, use ΔT = Tfinal − Tinitial, and check your understanding with new practice values."
+      },
+      {
+        "title": "Read change on a graph",
+        "text": "Move two points on walking, square-area, and reservoir graphs. Compare initial values, final values, and signed changes."
+      },
+      {
+        "title": "Use the quantities in a story",
+        "text": "Work through the race and the walk to the car. Distinguish position, distance traveled, distance remaining, and signed lead."
+      }
     ],
     "sourceNote": "Based on Module 2 Investigations 1 and 2 from Pathways Precalculus, ©2026 Rational Reasoning LLC. The lesson identifies original scenario text and adaptations. The walk-to-the-car activity is an added extension."
   }

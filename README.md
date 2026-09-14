@@ -1,11 +1,11 @@
 # MATH 10675 · Interactive class notebook
 
-A class blog and growing archive of interactive HTML lessons. The first entry is **Quantities & change**, covering Module 2 Investigations 1 and 2.
+A class blog and growing archive of interactive HTML lessons. Entries include **Quantities & change** (Module 2 Investigations 1 and 2) and **Constant rates & proportionality** (Investigations 3 and 4, under construction).
 
 ## Update or add an interactive lesson
 
 1. Put the self-contained HTML file in `lessons/`, using a lowercase hyphenated filename.
-2. Add a record to `content/posts.json`. Copy the existing record as a template: give it a unique `slug`, title, date (`YYYY-MM-DD`), module, investigations, description, lesson filename, topics, sections, and source note.
+2. Add a record to `content/posts.json`. Copy the existing record as a template: give it a unique `slug`, title, date (`YYYY-MM-DD`), module, investigations, description, lesson filename, topics, sections, and source note. Add `"status": "Under construction"` to label drafts on the archive and notes page. Include the label inside the lesson too.
 3. Run `node build.mjs` (Node.js 18 or later; no packages to install).
 4. Preview `docs/index.html` in a browser. Check the new post and lesson.
 5. Commit the edited source files and generated `docs/` files, then push to `main`. GitHub Pages publishes the `docs/` folder automatically.
