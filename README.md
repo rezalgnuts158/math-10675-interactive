@@ -17,6 +17,7 @@ The builder creates the home-page archive and a dedicated notes page for each le
 - `lessons/`: canonical interactive lesson sources.
 - `content/posts.json`: archive and post content.
 - `style.css`, `favicon.svg`: shared class-blog presentation.
+- `theme.css`, `theme.js`: shared light/dark styling and preference switch, embedded in generated pages for offline use. The initial theme follows the device setting; an explicit choice is saved locally and shared across the website.
 - `build.mjs`: dependency-free static site builder.
 - `docs/`: generated GitHub Pages site; avoid editing generated files directly.
 
