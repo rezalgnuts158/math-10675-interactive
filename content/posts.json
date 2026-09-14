@@ -57,7 +57,7 @@
       },
       {
         "title": "Separate a value from its change",
-        "text": "Explore temperature readings, use ΔT = Tfinal − Tinitial, and check your understanding with new practice values."
+        "text": "Explore temperature readings, use ΔT = T_{final} − T_{initial}, and check your understanding with new practice values."
       },
       {
         "title": "Read change on a graph",

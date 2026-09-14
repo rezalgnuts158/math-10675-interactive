@@ -26,3 +26,12 @@ The activities run in the browser. There is no account system, server, analytics
 ## Source attribution
 
 The first lesson includes scenario text from *Pathways Precalculus*, Module 2 Investigations 1 and 2, ©2026 Rational Reasoning LLC, supplied for this class. Source attributions and adaptation notes are included in the lesson. Original PDFs and instructor-note files are not part of this repository. No license is granted here for third-party course content.
+
+
+## Mathematical notation
+
+Every generated page loads the shared `math-format.js` / `math-format.css` renderer and the locally packaged MathJax 3.2.2 SVG engine in `vendor/mathjax/`. Existing numeric and formula notation is converted to TeX, including graph labels and values added by sliders and question generators. Native inputs and select options remain editable browser controls.
+
+For new content, prefer explicit inline LaTeX, for example `\(\Delta y = m\Delta x\)` and `\(y = \frac{3}{2}x\)`. In JavaScript or JSON strings, escape each backslash as `\\`, or use a JavaScript `String.raw` template. Text outside the delimiters remains prose. The renderer also understands the legacy Unicode formulas used in the first lessons.
+
+MathJax is Apache-2.0 licensed; its license is included with the vendored engine. It is served from this repository, without a CDN dependency. Run `node build.mjs --standalone` to also export both lessons as self-contained HTML files into the parent output directory, with the engine embedded for offline use.
