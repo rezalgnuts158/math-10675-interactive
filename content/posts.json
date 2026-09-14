@@ -1,0 +1,19 @@
+[
+  {
+    "slug": "quantities-and-change",
+    "title": "Quantities & change",
+    "date": "2026-09-13",
+    "module": "Module 2",
+    "investigations": "Investigations 1 & 2",
+    "description": "Identify measurable quantities, define variables, and connect a quantity’s value to its signed change. Explore graphs and reason through the tortoise-and-hare race and a walk to the car.",
+    "lesson": "quantities-and-change.html",
+    "topics": ["Quantities", "Variables", "Delta notation", "Graphs", "Word problems"],
+    "sections": [
+      {"title": "Identify and define", "text": "Classify ten candidates, explain which criteria fail, and write variable definitions for a marathon and a ball above a rooftop."},
+      {"title": "Separate a value from its change", "text": "Explore temperature readings, use ΔT = Tfinal − Tinitial, and check your understanding with new practice values."},
+      {"title": "Read change on a graph", "text": "Move two points on walking, square-area, and reservoir graphs. Compare initial values, final values, and signed changes."},
+      {"title": "Use the quantities in a story", "text": "Work through the race and the walk to the car. Distinguish position, distance traveled, distance remaining, and signed lead."}
+    ],
+    "sourceNote": "Based on Module 2 Investigations 1 and 2 from Pathways Precalculus, ©2026 Rational Reasoning LLC. The lesson identifies original scenario text and adaptations. The walk-to-the-car activity is an added extension."
+  }
+]
