@@ -1,5 +1,45 @@
 [
   {
+    "slug": "exploring-average-speed",
+    "title": "Exploring Average Speed",
+    "date": "2026-09-15",
+    "module": "Module 2",
+    "investigations": "Investigation 5",
+    "status": "Under construction",
+    "description": "Explore average speed through six exercises, adjustable graphs, answer checks, and live MathJax previews. This draft saves responses in your browser.",
+    "lesson": "exploring-average-speed.html",
+    "topics": [
+      "Average speed",
+      "Distance and time",
+      "Secant lines",
+      "Graphs"
+    ],
+    "sections": [
+      {
+        "title": "Concert and wedding trips",
+        "text": "Interpret average speed and use it to make predictions about distance and travel time."
+      },
+      {
+        "title": "Measure speed",
+        "text": "Decide which measurements are needed and explore distance divided by elapsed time."
+      },
+      {
+        "title": "Crosswalk",
+        "text": "Compare a curved distance graph with a constant-rate model using an adjustable secant line."
+      },
+      {
+        "title": "Intersection",
+        "text": "Track starting position, direction changes, and the selected time interval."
+      },
+      {
+        "title": "Practice",
+        "text": "Compare average speeds over successive intervals and check your reasoning."
+      }
+    ],
+    "sourceNote": "Adapted from M2I5.pdf, Exploring Average Speed, Module 2: Investigation 5 Instructor Notes, Pathways Precalculus, ©2026 Rational Reasoning LLC. Interactive graphs and the measurement exploration are adaptations. This lesson is under construction.",
+    "presentation": "self-contained"
+  },
+  {
     "slug": "constant-rates-and-proportionality",
     "title": "Constant rates & proportionality",
     "date": "2026-09-13",
