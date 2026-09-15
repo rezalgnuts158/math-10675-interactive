@@ -21,6 +21,10 @@
         "text": "Classify quantities in the bike ride, then define variables for the bike and pool scenarios."
       },
       {
+        "title": "Build the constant-rate formula step by step",
+        "text": "Follow a six-step pool guide from paired measurements to corresponding changes, a rate per input unit, and a formula from a known point. Use individual checks, an adjustable graph, and a staged derivation."
+      },
+      {
         "title": "Connect changes, rates, and initial values",
         "text": "Explore reciprocal rates and use Δy = mΔx to distinguish a change from a final value. Work through the pool observations and randomized self-checks."
       },
