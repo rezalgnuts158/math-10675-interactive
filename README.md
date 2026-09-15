@@ -1,6 +1,6 @@
 # MATH 10675 · Interactive class notebook
 
-A class blog and growing archive of interactive HTML lessons. Entries include **Quantities & change** (Module 2 Investigations 1 and 2) and **Constant rates & proportionality** (Investigations 3 and 4, under construction).
+A class blog and growing archive of interactive HTML lessons. Entries include **Quantities & change** (Module 2 Investigations 1 and 2) and **Constant rates & proportionality** (Investigations 3 and 4).
 
 ## Update or add an interactive lesson
 

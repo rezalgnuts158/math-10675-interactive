@@ -5,8 +5,7 @@
     "date": "2026-09-13",
     "module": "Module 2",
     "investigations": "Investigations 3 & 4",
-    "status": "Under construction",
-    "description": "A working draft on constant rates of change, linear functions, and proportional relationships. Explore the bike ride, pool, remote-control car, mixtures, cylinders, and candles.",
+    "description": "An interactive lesson on constant rates of change, linear functions, and proportional relationships. Explore the bike ride, pool, remote-control car, mixtures, cylinders, and candles.",
     "lesson": "constant-rates-and-proportionality.html",
     "topics": [
       "Constant rates",
@@ -37,7 +36,7 @@
         "text": "Begin with an essential select-all checkpoint: which equations does a constant rate guarantee? Compare values with changes using explanations and a counterexample. Then resize a picture or square, compare pool depths, scale a mixture, and explore cylinders and candles."
       }
     ],
-    "sourceNote": "Under construction. Based on M2I3: Constant Rate of Change and Linear Functions and M2I4: Constant Rate of Change & Proportionality, Pathways Precalculus, ©2026 Rational Reasoning LLC. Scenario sources and adaptations are identified in the lesson. The Bob graph follows its labeled coordinates because the printed point placement is inconsistent."
+    "sourceNote": "Based on M2I3: Constant Rate of Change and Linear Functions and M2I4: Constant Rate of Change & Proportionality, Pathways Precalculus, ©2026 Rational Reasoning LLC. Scenario sources and adaptations are identified in the lesson. The Bob graph follows its labeled coordinates because the printed point placement is inconsistent."
   },
   {
     "slug": "quantities-and-change",
