@@ -17,8 +17,8 @@
     ],
     "sections": [
       {
-        "title": "Identify quantities and define variables",
-        "text": "Classify quantities in the bike ride, then define variables for the bike and pool scenarios."
+        "title": "Identify quantities",
+        "text": "Classify quantities in the bike ride and decide which are fixed or varying."
       },
       {
         "title": "Build the constant-rate formula step by step",
@@ -34,7 +34,7 @@
       },
       {
         "title": "Distinguish proportional changes from proportional values",
-        "text": "Compare two starting depths, scale a mixture, compare cylinder readings, and model remaining candle length versus length burned."
+        "text": "Resize a picture or square proportionally and compare length and area scale factors. Compare two starting depths, scale a mixture, compare cylinder readings, and model remaining candle length versus length burned."
       }
     ],
     "sourceNote": "Under construction. Based on M2I3: Constant Rate of Change and Linear Functions and M2I4: Constant Rate of Change & Proportionality, Pathways Precalculus, ©2026 Rational Reasoning LLC. Scenario sources and adaptations are identified in the lesson. The Bob graph follows its labeled coordinates because the printed point placement is inconsistent."
