@@ -39,8 +39,7 @@
     "date": "2026-09-15",
     "module": "Module 2",
     "investigations": "Investigation 5",
-    "status": "Under construction",
-    "description": "Explore average speed through six scenarios, adjustable graphs, individual answer checks, and mathematical explanations. This draft saves responses in your browser.",
+    "description": "Explore average speed through six scenarios, adjustable graphs, individual answer checks, and mathematical explanations. This lesson saves responses in your browser.",
     "lesson": "exploring-average-speed.html",
     "topics": [
       "Average speed",
@@ -70,7 +69,7 @@
         "text": "Compare average speeds over successive intervals and check your reasoning."
       }
     ],
-    "sourceNote": "Adapted from M2I5.pdf, Exploring Average Speed, Module 2: Investigation 5 Instructor Notes, Pathways Precalculus, ©2026 Rational Reasoning LLC. Interactive graphs and the measurement exploration are adaptations. This lesson is under construction."
+    "sourceNote": "Adapted from M2I5.pdf, Exploring Average Speed, Module 2: Investigation 5 Instructor Notes, Pathways Precalculus, ©2026 Rational Reasoning LLC. Interactive graphs and the measurement exploration are adaptations."
   },
   {
     "slug": "constant-rates-and-proportionality",
