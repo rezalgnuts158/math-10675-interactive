@@ -6,7 +6,7 @@
     "module": "Module 2",
     "investigations": "Investigation 5",
     "status": "Under construction",
-    "description": "Explore average speed through six exercises, adjustable graphs, answer checks, and live MathJax previews. This draft saves responses in your browser.",
+    "description": "Explore average speed through six scenarios, adjustable graphs, individual answer checks, and mathematical explanations. This draft saves responses in your browser.",
     "lesson": "exploring-average-speed.html",
     "topics": [
       "Average speed",
@@ -20,8 +20,8 @@
         "text": "Interpret average speed and use it to make predictions about distance and travel time."
       },
       {
-        "title": "Measure speed",
-        "text": "Decide which measurements are needed and explore distance divided by elapsed time."
+        "title": "Average speed versus constant rate",
+        "text": "Measure distance and time, then compare two carts with the same whole-trip average and different motion. Select shorter intervals and check what the quotient does and does not tell you."
       },
       {
         "title": "Crosswalk",
@@ -36,8 +36,7 @@
         "text": "Compare average speeds over successive intervals and check your reasoning."
       }
     ],
-    "sourceNote": "Adapted from M2I5.pdf, Exploring Average Speed, Module 2: Investigation 5 Instructor Notes, Pathways Precalculus, ©2026 Rational Reasoning LLC. Interactive graphs and the measurement exploration are adaptations. This lesson is under construction.",
-    "presentation": "self-contained"
+    "sourceNote": "Adapted from M2I5.pdf, Exploring Average Speed, Module 2: Investigation 5 Instructor Notes, Pathways Precalculus, ©2026 Rational Reasoning LLC. Interactive graphs and the measurement exploration are adaptations. This lesson is under construction."
   },
   {
     "slug": "constant-rates-and-proportionality",

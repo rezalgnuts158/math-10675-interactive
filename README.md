@@ -30,8 +30,8 @@ The first lesson includes scenario text from *Pathways Precalculus*, Module 2 In
 
 ## Mathematical notation
 
-Archive pages and Investigations 1–4 load the shared `math-format.js` / `math-format.css` renderer and the locally packaged MathJax 3.2.2 SVG engine in `vendor/mathjax/`. Existing numeric and formula notation is converted to TeX, including graph labels and values added by sliders and question generators. Native inputs and select options remain editable browser controls.
+All archive pages and investigations load the shared `math-format.js` / `math-format.css` renderer and the locally packaged MathJax 3.2.2 SVG engine in `vendor/mathjax/`. Existing numeric and formula notation is converted to TeX, including graph labels and values added by sliders and question generators. Native inputs and select options remain editable browser controls.
 
 For new content, prefer explicit inline LaTeX, for example `\(\Delta y = m\Delta x\)` and `\(y = \frac{3}{2}x\)`. In JavaScript or JSON strings, escape each backslash as `\\`, or use a JavaScript `String.raw` template. Text outside the delimiters remains prose. The renderer also understands the legacy Unicode formulas used in the first lessons.
 
-MathJax is Apache-2.0 licensed; its license is included with the vendored engine. It is served from this repository, without a CDN dependency. Set `"presentation": "self-contained"` for a lesson with its own styling and MathJax initialization. The builder preserves that presentation and adds the archive link. Investigation 5 uses this option and loads the bundled engine from `../vendor/mathjax/tex-svg-full.js`.
+MathJax is Apache-2.0 licensed; its license is included with the vendored engine. It is served from this repository, without a CDN dependency. Run `node build.mjs --standalone` to export offline copies with the shared theme and MathJax engine embedded. Investigation 5 uses the same header, stage navigation, cards, theme switch, and math rendering as the other lessons, while retaining expression entry and browser-saved responses.
