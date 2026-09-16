@@ -1,5 +1,39 @@
 [
   {
+    "slug": "distance-and-circles",
+    "title": "Distance & circles",
+    "date": "2026-09-15",
+    "module": "Module 2",
+    "investigations": "Investigation 6",
+    "description": "Use one connected graph to build the distance formula from a right triangle, then trace points at a fixed distance to derive the circle equation. Explore the cell-tower scenarios with guided checks.",
+    "lesson": "distance-and-circles.html",
+    "topics": [
+      "Distance formula",
+      "Pythagorean theorem",
+      "Circles",
+      "Coordinates"
+    ],
+    "sections": [
+      {
+        "title": "Build a right triangle",
+        "text": "Locate the house and cell tower, identify horizontal and vertical separations, and distinguish signed coordinate changes from leg lengths."
+      },
+      {
+        "title": "Derive and generalize the distance formula",
+        "text": "Apply the Pythagorean theorem, take the nonnegative square root, and compare the original and second towers."
+      },
+      {
+        "title": "Trace and describe a circle",
+        "text": "Keep the tower fixed and the distance constant. Trace the boundary, then connect the geometry to the equation (x − h)² + (y − k)² = r²."
+      },
+      {
+        "title": "Choose the right boundary point",
+        "text": "Solve for the point southeast of the tower, compare the two intersections, and distinguish a circle boundary from the coverage disk."
+      }
+    ],
+    "sourceNote": "Based on M2I6: The Distance Formula and the Equation of a Circle, Pathways Precalculus, ©2026 Rational Reasoning LLC. Original scenarios are included; the interactive graph and checks are teaching adaptations. The missing square root in the first displayed equality of Exercise 2(a) is corrected."
+  },
+  {
     "slug": "exploring-average-speed",
     "title": "Exploring Average Speed",
     "date": "2026-09-15",

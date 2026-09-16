@@ -1,6 +1,6 @@
 # MATH 10675 · Interactive class notebook
 
-A class blog and growing archive of interactive HTML lessons. Entries include **Quantities & change** (Module 2 Investigations 1 and 2), **Constant rates & proportionality** (Investigations 3 and 4), and **Exploring Average Speed** (Investigation 5, under construction).
+A class blog and growing archive of interactive HTML lessons. Entries include **Quantities & change** (Module 2 Investigations 1 and 2), **Constant rates & proportionality** (Investigations 3 and 4), **Exploring Average Speed** (Investigation 5, under construction), and **Distance & circles** (Investigation 6).
 
 ## Update or add an interactive lesson
 
@@ -21,7 +21,7 @@ The builder creates the home-page archive and a dedicated notes page for each le
 - `build.mjs`: dependency-free static site builder.
 - `docs/`: generated GitHub Pages site; avoid editing generated files directly.
 
-The activities run in the browser. There is no account system, server, analytics, or answer collection. Investigations 1–4 retain answers only in the open lesson. Investigation 5 saves responses in browser local storage and provides a reset control.
+The activities run in the browser. There is no account system, server, analytics, or answer collection. Investigations 1–4 and 6 retain answers only in the open lesson. Investigation 5 saves responses in browser local storage and provides a reset control.
 
 ## Source attribution
 
