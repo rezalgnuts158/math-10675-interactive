@@ -1,5 +1,43 @@
 [
   {
+    "slug": "absolute-value-and-tolerance",
+    "title": "Absolute value & tolerance",
+    "date": "2026-09-22",
+    "module": "Module 2",
+    "investigations": "Investigation 7",
+    "description": "Explore absolute value as distance through carpenter and model-airplane tolerances, interactive number lines, signed changes, and individual checks.",
+    "lesson": "absolute-value-and-tolerance.html",
+    "topics": [
+      "Absolute value",
+      "Tolerance",
+      "Inequalities",
+      "Number lines"
+    ],
+    "sections": [
+      {
+        "title": "From error to distance",
+        "text": "Compare a board’s actual length, signed error, and error magnitude. Translate its tolerance into an inclusive interval."
+      },
+      {
+        "title": "Direction and endpoints",
+        "text": "Distinguish a positive change from an unsigned distance, and compare between-values conditions with two outward rays."
+      },
+      {
+        "title": "Apply and translate",
+        "text": "Work through the model-airplane scenario and connect the original word conditions to inequalities and interval notation."
+      },
+      {
+        "title": "Practice all representations",
+        "text": "Read four absolute value inequalities, identify boundaries, choose endpoint inclusion, and explore each solution set."
+      },
+      {
+        "title": "Connect with the course assessment",
+        "text": "Compare exact-distance equations with inequalities, practice a second board-cutting scenario, and explain why a negative distance gives no real solutions."
+      }
+    ],
+    "sourceNote": "Based on M2I7: Absolute Value and the linked Absolute Value course assessment, Pathways Precalculus, ©2026 Rational Reasoning LLC. All ten PDF exercises are represented with adapted checks and interactive number lines, alongside selected assessment examples on exact distance and equations."
+  },
+  {
     "slug": "distance-and-circles",
     "title": "Distance & circles",
     "date": "2026-09-15",
