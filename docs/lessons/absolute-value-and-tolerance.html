@@ -144,14 +144,14 @@ const words={lt:'less than',le:'at most',eq:'exactly',ge:'at least',gt:'more tha
 const close=(a,b)=>Math.abs(a-b)<1e-8;
 function diff(v,h){return h===0?v:v+(h<0?'+':'-')+fmt(Math.abs(h))}
 function holds(s){const e=s.x-s.h,d=Math.abs(e),at=close(d,s.c);return ({le:d<s.c||at,lt:d<s.c&&!at,eq:at,ge:d>s.c||at,gt:d>s.c&&!at,positive:e>1e-8&&(e<s.c||close(e,s.c))})[s.mode]}
-function forms(s){const {h,c,v,mode}=s,d=diff(v,h),lo=fmt(h-c),hi=fmt(h+c),cc=fmt(c),hh=fmt(h),closed=mode==='le'||mode==='ge',less=closed?F`\le`:'<',more=closed?F`\ge`:'>';
+function forms(s){const {h,c,v,mode}=s,d=diff(v,h),lo=fmt(h-c),hi=fmt(h+c),cc=fmt(c),hh=fmt(h),closed=mode==='le'||mode==='ge',less=closed?F`\le `:'<',more=closed?F`\ge `:'>';
  let signed,values,interval,absolute;
  if(mode==='positive'){signed=F`0<${d}\le${cc}`;values=F`${hh}<${v}\le${hi}`;interval=`(${hh},${hi}]`;absolute=F`|${d}|\le${cc}\text{ and }${v}>${hh}`}
  else{absolute=`|${d}|${symbols[mode]}${cc}`;
  if(mode==='eq'){signed=F`${d}=-${cc}\text{ or }${d}=${cc}`;values=F`${v}=${lo}\text{ or }${v}=${hi}`;interval=F`\{${lo},${hi}\}`}
  else if(mode==='lt'||mode==='le'){signed=`-${cc}${less}${d}${less}${cc}`;values=`${lo}${less}${v}${less}${hi}`;interval=`${closed?'[':'('}${lo},${hi}${closed?']':')'}`}
  else{signed=F`${d}${less}-${cc}\text{ or }${d}${more}${cc}`;values=F`${v}${less}${lo}\text{ or }${v}${more}${hi}`;interval=F`(-\infty,${lo}${closed?']':')'}\cup${closed?'[':'('}${hi},\infty)`}}
- if(s.physical&&mode==='gt'){values=F`0\le${v}<${lo}\text{ or }${v}>${hi}`;interval=F`[0,${lo})\cup(${hi},\infty)`}
+ if(s.physical&&mode==='gt'){values=F`0\le ${v}<${lo}\text{ or }${v}>${hi}`;interval=F`[0,${lo})\cup(${hi},\infty)`}
  return {signed,values,interval,absolute};
 }
 const defaults={board:{h:7.6,c:.1,x:7.55,mode:'le',v:'x',unit:'inches',physical:true},within:{h:16,c:4.5,x:12,mode:'le',v:'x',unit:'units'},direction:{h:5,c:3,x:7,mode:'positive',v:'x',unit:'units'},outside:{h:-3,c:4,x:2,mode:'ge',v:'x',unit:'units'},airplane:{h:28.5,c:.6,x:28.1,mode:'le',v:'w',unit:'ounces'},translate:{h:5,c:2,x:4,mode:'lt',v:'x',unit:'units'},practice:{h:11,c:6,x:11,mode:'lt',v:'x',unit:'units'},equations:{h:0,c:4,x:4,mode:'eq',v:'x',unit:'units'}};
