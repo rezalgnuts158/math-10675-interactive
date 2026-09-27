@@ -1,5 +1,39 @@
 [
   {
+    "slug": "the-box-problem",
+    "title": "The box problem",
+    "date": "2026-09-27",
+    "module": "Module 3",
+    "investigations": "Investigation 1",
+    "description": "Cut and fold one adjustable paper box. Link its dimensions, table, and graphs to volume, changes, target values, maximum volume, and exterior surface area.",
+    "lesson": "the-box-problem.html",
+    "topics": [
+      "Modeling",
+      "Volume",
+      "Functions",
+      "Surface area"
+    ],
+    "sections": [
+      {
+        "title": "Cut, fold, and measure",
+        "text": "Control the cutout and fold angle, connect the paper net with a three-dimensional box, and distinguish physical boxes from limiting configurations."
+      },
+      {
+        "title": "Build the model",
+        "text": "Derive base dimensions and volume, complete the original table, and connect graph points with measurements."
+      },
+      {
+        "title": "Compare and solve",
+        "text": "Compare changes over intervals, find two cutouts for the same volume, and refine an estimate of maximum volume."
+      },
+      {
+        "title": "Model surface area",
+        "text": "Count the five faces or subtract the four cutouts, then solve the final area-to-volume problem with adequate precision."
+      }
+    ],
+    "sourceNote": "Based on M3I1: The Box Problem and Modeling Relationships, Pathways Precalculus, ©2026 Rational Reasoning LLC, with a link to the supplied GeoGebra Box Folding 3D activity. The folding toolbox and guided checks are original teaching adaptations. The final worked example’s premature rounding is corrected."
+  },
+  {
     "slug": "absolute-value-and-tolerance",
     "title": "Absolute value & tolerance",
     "date": "2026-09-22",
