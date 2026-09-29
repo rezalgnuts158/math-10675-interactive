@@ -1,5 +1,39 @@
 [
   {
+    "slug": "functions-and-domains",
+    "title": "Functions & domains",
+    "date": "2026-09-29",
+    "module": "Module 3",
+    "investigations": "Investigation 2",
+    "description": "Connect function notation to inputs, outputs, and graphs. Explore intercepts, domain and range, then practice domain restrictions with individual checks.",
+    "lesson": "functions-and-domains.html",
+    "topics": [
+      "Functions",
+      "Domain & range",
+      "Intercepts",
+      "Practice"
+    ],
+    "sections": [
+      {
+        "title": "Interpret function notation",
+        "text": "Use the box model to name outputs, solve for inputs, and distinguish a function value from a change in values."
+      },
+      {
+        "title": "Read relationships and graphs",
+        "text": "Connect a square’s side and perimeter, interpret the tortoise’s lead and intercepts, and test whether a relation is a function in each direction."
+      },
+      {
+        "title": "Find domain and range",
+        "text": "Explore the original algebraic examples and read a graph with explicit open or closed endpoints."
+      },
+      {
+        "title": "Practice domain restrictions",
+        "text": "Ten individually checked problems cover polynomials, rational expressions, square roots, combined restrictions, cancellation, physical limits, and discrete inputs."
+      }
+    ],
+    "sourceNote": "Based on M3I2: Function Relations and Domain of Functions, Pathways Precalculus, ©2026 Rational Reasoning LLC. Source scenarios and examples are adapted into interactive tools. The range of 1/(x² − 9) is corrected, and limiting cases and endpoint inclusion are explicit. The final domain practice set is original."
+  },
+  {
     "slug": "the-box-problem",
     "title": "The box problem",
     "date": "2026-09-27",
