@@ -1,5 +1,40 @@
 [
   {
+    "slug": "using-function-notation",
+    "title": "Using & interpreting function notation",
+    "date": "2026-09-30",
+    "module": "Module 3",
+    "investigations": "Investigation 3",
+    "description": "Evaluate, solve, and interpret function notation through squares, a price table, a race, and a delayed second hose. Finish with 10 additional function-notation and domain questions.",
+    "lesson": "using-function-notation.html",
+    "topics": [
+      "Function notation",
+      "Substitution",
+      "Domain",
+      "Graphs",
+      "Word problems"
+    ],
+    "sections": [
+      {
+        "title": "Represent and evaluate",
+        "text": "Use a square-area function to distinguish a named output, an evaluated value, and an equation to solve. Grow the square to substitute an expression as an input."
+      },
+      {
+        "title": "Interpret symbols and tables",
+        "text": "Identify inputs, outputs, and the function name in the medication scenario. Use the worksheet’s truck-price table to find values, differences, ratios, and the limits of a discrete domain."
+      },
+      {
+        "title": "Compare and shift functions",
+        "text": "Link the runners’ positions, remaining distances, and signed lead. Explore a second hose that starts four minutes later, including the domain of the shifted function."
+      },
+      {
+        "title": "Practice notation and domain",
+        "text": "Complete exactly 10 original questions: five on function notation and five on real domains. Check answers individually, reveal worked solutions, or print the practice section."
+      }
+    ],
+    "sourceNote": "Adapted from M3I3: Using and Interpreting Function Notation, Pathways Precalculus, ©2026 Rational Reasoning LLC, supplied for this class. Scenario data and exercise order follow the source. Interactive graphs, explicit domain discussions, and the 10 practice questions are additions. Answers are kept only in the open lesson; nothing is submitted."
+  },
+  {
     "slug": "functions-and-domains",
     "title": "Functions & domains",
     "date": "2026-09-29",
