@@ -1,5 +1,40 @@
 [
   {
+    "slug": "function-composition",
+    "title": "Function composition",
+    "date": "2026-10-05",
+    "module": "Module 3",
+    "investigations": "Investigation 4",
+    "status": "Under construction",
+    "description": "Chain two function processes through a middle quantity. Explore running time and fluid, square perimeter and area, table lookups, linked graphs, and symbolic composition.",
+    "lesson": "function-composition.html",
+    "topics": [
+      "Composition",
+      "Function notation",
+      "Tables & graphs",
+      "Domain"
+    ],
+    "sections": [
+      {
+        "title": "Find the middle quantity",
+        "text": "Connect running time to distance to fluid, then perimeter to side length to area. Follow values through two processes and build a single composite rule."
+      },
+      {
+        "title": "Read tables and graphs twice",
+        "text": "Trace the original function table in two steps, solve backward, and distinguish missing table information from undefined function values. Link temperature, carnival attendance, and revenue through a clearly labeled graph reconstruction."
+      },
+      {
+        "title": "Compose formulas and check domains",
+        "text": "Evaluate and combine the source square-root, linear, and quotient functions. Swap the order and see how the formula and allowed inputs change."
+      },
+      {
+        "title": "Practice and explain",
+        "text": "Eight questions progress from numerical composition to formulas and domain restrictions. Use individual checks, worked answers, and a final composition-versus-multiplication explanation."
+      }
+    ],
+    "sourceNote": "Adapted from M3I4: Function Composition—Chaining Together Two Function Processes, Pathways Precalculus, ©2026 Rational Reasoning LLC, supplied for this class. Source scenarios, table values, and symbolic exercises are retained in adapted form. Interactive tools, domain discussions, and practice are additions. Carnival graphs are reconstructed from approximate readings, with an explicit illustrative revenue rule. Responses clear on reload; nothing is submitted."
+  },
+  {
     "slug": "introducing-the-difference-quotient",
     "title": "Introducing the difference quotient",
     "date": "2026-10-05",
