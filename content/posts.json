@@ -1,5 +1,40 @@
 [
   {
+    "slug": "introducing-the-difference-quotient",
+    "title": "Introducing the difference quotient",
+    "date": "2026-10-05",
+    "module": "Module 3",
+    "investigations": "Investigation 7",
+    "description": "Connect average rates to secant slopes, then calculate difference quotients with detailed rational and cubic walkthroughs, a graph explorer, and eight practice questions.",
+    "lesson": "introducing-the-difference-quotient.html",
+    "topics": [
+      "Average rate of change",
+      "Difference quotients",
+      "Rational functions",
+      "Cubic functions",
+      "Domain"
+    ],
+    "sections": [
+      {
+        "title": "From average rates to a quotient",
+        "text": "Use Terri’s pace, Kylie’s walk, and the car model to identify input and output changes. Rewrite a secant slope using x and h."
+      },
+      {
+        "title": "Rational functions, step by step",
+        "text": "Substitute x + h, form a common denominator, distribute subtraction, factor h, and retain all restrictions. Work through 10/x and (2x + 1)/(x − 3)."
+      },
+      {
+        "title": "Cubic functions, step by step",
+        "text": "Build the binomial expansion, subtract the whole original expression, and factor the numerator. Extend x³ to a full cubic polynomial."
+      },
+      {
+        "title": "Explore and practice",
+        "text": "Compare direct and simplified quotients using five interactive models. Test zero increments and rational-domain restrictions, then complete eight questions with individual checks and worked answers."
+      }
+    ],
+    "sourceNote": "Adapted from M3I7: Introducing the Difference Quotient, Pathways Precalculus, ©2026 Rational Reasoning LLC, supplied for this class. Scenario data and the quadratic example follow the source. Interactive tools, detailed rational and cubic tutorials, and practice are additions. The car scenario uses feet consistently. Responses clear on reload; nothing is submitted."
+  },
+  {
     "slug": "using-function-notation",
     "title": "Using & interpreting function notation",
     "date": "2026-09-30",
