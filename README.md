@@ -35,3 +35,7 @@ All archive pages and investigations load the shared `math-format.js` / `math-fo
 For new content, prefer explicit inline LaTeX, for example `\(\Delta y = m\Delta x\)` and `\(y = \frac{3}{2}x\)`. In JavaScript or JSON strings, escape each backslash as `\\`, or use a JavaScript `String.raw` template. Text outside the delimiters remains prose. The renderer also understands the legacy Unicode formulas used in the first lessons.
 
 MathJax is Apache-2.0 licensed; its license is included with the vendored engine. It is served from this repository, without a CDN dependency. Run `node build.mjs --standalone` to export offline copies with the shared theme and MathJax engine embedded. Investigation 5 uses the same header, stage navigation, cards, theme switch, and math rendering as the other lessons, while retaining expression entry and browser-saved responses.
+
+## Module 3 Investigation 4
+
+Function composition is an under-construction interactive lesson in lessons/function-composition.html. It follows the supplied running, square, table, carnival, and symbolic activities, with eight practice questions. Carnival graphs are explicitly labeled reconstructions of approximate readings. Responses remain only in the open page and clear on reload.
