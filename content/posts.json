@@ -1,5 +1,39 @@
 [
   {
+    "slug": "percent-change-and-exponential-behavior",
+    "title": "Percent change & exponential behavior",
+    "date": "2026-10-19",
+    "module": "Module 4",
+    "investigations": "Investigations 1 & 2",
+    "description": "Connect percentages with multipliers, then compare linear and exponential change through adjustable diagrams, device-value graphs, interval comparisons, and practice.",
+    "lesson": "percent-change-and-exponential-behavior.html",
+    "topics": [
+      "Percentages",
+      "Percent change",
+      "Growth factors",
+      "Linear & exponential models"
+    ],
+    "sections": [
+      {
+        "title": "Start with the reference amount",
+        "text": "Use tips, tax, battery life, and tile lengths to interpret percentages and compare in both directions. Build a multiplier for an increase or decrease."
+      },
+      {
+        "title": "Repeat a factor",
+        "text": "Connect doubling and repeated percent decreases with exponential notation. Distinguish percent of an amount from percent change."
+      },
+      {
+        "title": "Compare two device models",
+        "text": "Model a 30% yearly decrease and a $45 yearly decrease from the same initial value. Connect tables and graphs, move equal intervals, and compare ratios, differences, and average rates."
+      },
+      {
+        "title": "Practice and explain",
+        "text": "Eight questions cover percentage calculations, successive changes, formulas, patterns, and average rates. Each has individual feedback and a worked answer."
+      }
+    ],
+    "sourceNote": "Adapted from M4I1: Percentages and Percent Change and M4I2: Comparing Linear and Exponential Behavior, Pathways Precalculus, ©2026 Rational Reasoning LLC, supplied for this class. Source scenarios and values are retained in adapted form. Interactive tools, explicit model restrictions, and practice are additions. Responses clear on reload; nothing is submitted."
+  },
+  {
     "slug": "function-composition",
     "title": "Function composition",
     "date": "2026-10-05",

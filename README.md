@@ -39,3 +39,7 @@ MathJax is Apache-2.0 licensed; its license is included with the vendored engine
 ## Module 3 Investigation 4
 
 Function composition is an under-construction interactive lesson in lessons/function-composition.html. It follows the supplied running, square, table, carnival, and symbolic activities, with eight practice questions. Carnival graphs are explicitly labeled reconstructions of approximate readings. Responses remain only in the open page and clear on reload.
+
+## Module 4 Investigations 1 and 2
+
+Percent change & exponential behavior is available in lessons/percent-change-and-exponential-behavior.html. Six stages connect reference amounts, multipliers, repeated change, device models, interval comparisons, and eight practice questions. It uses the shared MathJax renderer and light/dark theme. Responses remain only in the open page.
