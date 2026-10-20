@@ -1,5 +1,39 @@
 [
   {
+    "slug": "growth-factors-and-percent-change",
+    "title": "Growth factors & percent change",
+    "date": "2026-10-20",
+    "module": "Module 4",
+    "investigations": "Investigation 3",
+    "description": "Explore a doubling chessboard, connect constant ratios with percent change, build growth and decay models, and practice with individual checks.",
+    "lesson": "growth-factors-and-percent-change.html",
+    "topics": [
+      "Exponential growth",
+      "Decay",
+      "Percent change",
+      "Initial values"
+    ],
+    "sections": [
+      {
+        "title": "Explore the chessboard",
+        "text": "Select or animate all sixty-four squares, compare exact penny counts with cumulative totals, and investigate repeated doubling."
+      },
+      {
+        "title": "Connect ratios and percents",
+        "text": "Move equal-width intervals across growth and decay graphs, then distinguish percent of an old value from percent change."
+      },
+      {
+        "title": "Build and interpret models",
+        "text": "Use the original house and population scenarios, recover initial values from tables and graphs, and distinguish exponential functions from power functions."
+      },
+      {
+        "title": "Practice the ideas",
+        "text": "Twelve individually checked practice problems cover factors, signed percent changes, initial values, unequal input gaps, backward steps, and model selection."
+      }
+    ],
+    "sourceNote": "Based on M4I3: 1-Unit Growth and Decay Factors, Percent Change, and Initial Values, Pathways Precalculus, ©2026 Rational Reasoning LLC. Original scenarios and all source exercise groups are represented. The interactive tools and final practice problems are teaching additions; source rounding and model assumptions are explicit."
+  },
+  {
     "slug": "percent-change-and-exponential-behavior",
     "title": "Percent change & exponential behavior",
     "date": "2026-10-19",

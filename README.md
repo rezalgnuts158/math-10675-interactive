@@ -43,3 +43,7 @@ Function composition is an under-construction interactive lesson in lessons/func
 ## Module 4 Investigations 1 and 2
 
 Percent change & exponential behavior is available in lessons/percent-change-and-exponential-behavior.html. Six stages connect reference amounts, multipliers, repeated change, device models, interval comparisons, and eight practice questions. It uses the shared MathJax renderer and light/dark theme. Responses remain only in the open page.
+
+## Module 4 Investigation 3
+
+Growth factors & percent change is available in lessons/growth-factors-and-percent-change.html. Six stages include a doubling chessboard with exact counts, equal-interval graphs, a factor and percent translator, original source models, and twelve practice problems. Responses remain only in the open page and clear on reload.
