@@ -47,3 +47,7 @@ Percent change & exponential behavior is available in lessons/percent-change-and
 ## Module 4 Investigation 3
 
 Growth factors & percent change is available in lessons/growth-factors-and-percent-change.html. Six stages include a doubling chessboard with exact counts, equal-interval graphs, a factor and percent translator, original source models, and twelve practice problems. Responses remain only in the open page and clear on reload.
+
+## Module 4 Investigations 4 and 5
+
+Partial & multi-unit growth factors is available in lessons/partial-and-multi-unit-growth.html. Seven stages connect chessboard interval comparisons, fractional exponents, adjustable factor conversions, original source scenarios, formulas and spaced tables, and ratios versus average rates. Sixteen practice questions have individual feedback. Exact source ratios are retained in calculations, with rounded or inconsistent displayed source values identified. Responses remain only in the open page and clear on reload.

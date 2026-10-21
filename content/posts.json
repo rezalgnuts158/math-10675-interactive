@@ -1,5 +1,39 @@
 [
   {
+    "slug": "partial-and-multi-unit-growth",
+    "title": "Partial & multi-unit growth factors",
+    "date": "2026-10-20",
+    "module": "Module 4",
+    "investigations": "Investigations 4 & 5",
+    "description": "Compare chessboard jumps, derive fractional and multi-unit factors, explore the original scenarios, and distinguish ratios from average rates of change.",
+    "lesson": "partial-and-multi-unit-growth.html",
+    "topics": [
+      "Fractional exponents",
+      "Interval factors",
+      "Growth & decay",
+      "Average rates"
+    ],
+    "sections": [
+      {
+        "title": "Explore and derive",
+        "text": "Select two chessboard squares, reverse or shift the interval, and extend the ratio idea to fractional steps with an adjustable factor toolbox."
+      },
+      {
+        "title": "Use the source scenarios",
+        "text": "Explore flu cases, alpacas, medicine, population change, and caffeine with the full context and linked graphs."
+      },
+      {
+        "title": "Read formulas, tables, and graphs",
+        "text": "Account for input spacing, recover initial values, compare interpolation methods, and separate output ratios from secant slopes."
+      },
+      {
+        "title": "Practice independently",
+        "text": "Sixteen individually checked questions reinforce interval conversions, percent change, models, backward steps, and average rates."
+      }
+    ],
+    "sourceNote": "Adapted from M4I4 and M4I5, Pathways Precalculus, ©2026 Rational Reasoning LLC. The chessboard bridge continues M4I3. Tools and final practice are teaching additions. Source rounding and extrapolation assumptions are explicit."
+  },
+  {
     "slug": "growth-factors-and-percent-change",
     "title": "Growth factors & percent change",
     "date": "2026-10-20",
