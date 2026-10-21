@@ -5,7 +5,7 @@
     "date": "2026-10-20",
     "module": "Module 4",
     "investigations": "Investigations 4 & 5",
-    "description": "Compare chessboard jumps, derive fractional and multi-unit factors, explore the original scenarios, and distinguish ratios from average rates of change.",
+    "description": "Derive fractional and multi-unit factors, explore the original scenarios, and distinguish ratios from average rates of change.",
     "lesson": "partial-and-multi-unit-growth.html",
     "topics": [
       "Fractional exponents",
@@ -16,7 +16,7 @@
     "sections": [
       {
         "title": "Explore and derive",
-        "text": "Select two chessboard squares, reverse or shift the interval, and extend the ratio idea to fractional steps with an adjustable factor toolbox."
+        "text": "Use an adjustable factor toolbox to compare forward, backward, fractional, and multi-unit intervals."
       },
       {
         "title": "Use the source scenarios",
@@ -31,7 +31,7 @@
         "text": "Sixteen individually checked questions reinforce interval conversions, percent change, models, backward steps, and average rates."
       }
     ],
-    "sourceNote": "Adapted from M4I4 and M4I5, Pathways Precalculus, ©2026 Rational Reasoning LLC. The chessboard bridge continues M4I3. Tools and final practice are teaching additions. Source rounding and extrapolation assumptions are explicit."
+    "sourceNote": "Adapted from M4I4 and M4I5, Pathways Precalculus, ©2026 Rational Reasoning LLC. Tools and final practice are teaching additions. Source rounding and extrapolation assumptions are explicit."
   },
   {
     "slug": "growth-factors-and-percent-change",
