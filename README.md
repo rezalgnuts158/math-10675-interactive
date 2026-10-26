@@ -51,3 +51,7 @@ Growth factors & percent change is available in lessons/growth-factors-and-perce
 ## Module 4 Investigations 4 and 5
 
 Partial & multi-unit growth factors is available in lessons/partial-and-multi-unit-growth.html. Six stages connect fractional exponents, adjustable factor conversions, original source scenarios, formulas and spaced tables, and ratios versus average rates. Each page has a reset control, with a separate reset for practice. Sixteen practice questions have individual feedback. Exact source ratios are retained in calculations, with rounded or inconsistent displayed source values identified. Responses remain only in the open page and clear on reload.
+
+## Module 4 Investigation 7
+
+Compound interest & the number e is available in lessons/compound-interest-and-e.html. Six stages connect periodic compounding, APY, the limiting sequence defining e, continuous-compounding formulas, doubling time, and fourteen practice problems. All thirty-four questions have individual feedback, and each stage has a reset. High-frequency calculations use log1p/expm1 to avoid cancellation. The source APY differences are recalculated and labeled in percentage points. M4I6 was supplied as a blank PDF, so the preparation section is an added teaching guide rather than attributed I6 content. Responses remain only in the open page and clear on reload.

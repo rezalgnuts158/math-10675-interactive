@@ -1,5 +1,39 @@
 [
   {
+    "slug": "compound-interest-and-e",
+    "title": "Compound interest & the number e",
+    "date": "2026-10-26",
+    "module": "Module 4",
+    "investigations": "Investigation 7",
+    "description": "Build compound-interest formulas, compare compounding frequency and APY, discover the number e, and explore continuous growth and doubling time.",
+    "lesson": "compound-interest-and-e.html",
+    "topics": [
+      "Compound interest",
+      "APY",
+      "The number e",
+      "Continuous growth"
+    ],
+    "sections": [
+      {
+        "title": "Build and compare",
+        "text": "Follow the balance at each compounding period, then compare yearly through hundredth-second schedules using the original account scenario."
+      },
+      {
+        "title": "Discover a limit",
+        "text": "Increase compounding frequency to explore the number e and connect annual growth factors with continuous compounding."
+      },
+      {
+        "title": "Model and interpret",
+        "text": "Derive the continuous formula, compare nominal rates with APY, and investigate a doubling interval that works from any starting time."
+      },
+      {
+        "title": "Practice independently",
+        "text": "Fourteen individually checked problems cover period rates, balances, APY, time units, and doubling time. Each page has a reset control."
+      }
+    ],
+    "sourceNote": "Based on M4I7: Investment Activity: Focus on Formulas and Motivating e, Pathways Precalculus, ©2026 Rational Reasoning LLC. The supplied M4I6 PDF is blank; this lesson includes an added preparation section and does not claim to reproduce I6. Source table differences are recomputed from formulas."
+  },
+  {
     "slug": "partial-and-multi-unit-growth",
     "title": "Partial & multi-unit growth factors",
     "date": "2026-10-20",
