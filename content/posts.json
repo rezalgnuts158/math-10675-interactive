@@ -1,5 +1,22 @@
 [
   {
+    "slug": "quadratic-functions",
+    "title": "Quadratic functions: graphs, extrema & roots",
+    "date": "2026-11-05",
+    "module": "Module 5",
+    "investigations": "Investigation 4",
+    "description": "Explore parabolas, identify maximum and minimum values, and find roots with the quadratic formula through adjustable graphs, worked examples, and ten practice questions.",
+    "lesson": "quadratic-functions.html",
+    "topics": ["Quadratic functions", "Graphs & vertices", "Maximum & minimum", "Quadratic formula"],
+    "sections": [
+      {"title": "Read and change a parabola", "text": "Connect standard and vertex forms, opening direction, symmetry, intercepts, and the effect of the leading coefficient."},
+      {"title": "Find maximum and minimum values", "text": "Distinguish the vertex input from its output, then compare extrema on the full real domain and on a closed interval."},
+      {"title": "Solve with the quadratic formula", "text": "Identify signed coefficients, calculate the discriminant, and connect two, one, or no real roots with the graph. An interactive lab displays substitution and both formula branches."},
+      {"title": "Interpret and practice", "text": "Use a ball-height model to interpret a maximum and a landing time, then complete ten individually checked questions with worked solutions."}
+    ],
+    "sourceNote": "Original instructional examples and interactive activities for the requested M5I4 topics. The source worksheet was not available for verification, so this companion lesson does not claim to reproduce its examples or exercise order. Responses clear on reload; nothing is submitted."
+  },
+  {
     "slug": "compound-interest-and-e",
     "title": "Compound interest & the number e",
     "date": "2026-10-26",
